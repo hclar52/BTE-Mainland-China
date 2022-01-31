@@ -4,20 +4,16 @@ cover: >-
 coverY: 0
 ---
 
-# Vision and Values
+# Vision & Values 愿景和价值观
 
 ## Our Vision
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
-
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+Out mission is to recreate Mainland China 1:1 scale within Minecraft!&#x20;
 
 ## Our Values
 
 {% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
+**Good to know:** Anyone can join our team! You just need this handbook, some building talent, time and a good attitude!
 {% endhint %}
 
 ### Be Compassionate
@@ -26,8 +22,8 @@ We treat everyone we encounter with compassion, seeing the humanity behind their
 
 ### Be Mindful
 
-We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
+We adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
 
-### Research First
+### High-Quality Mindset
 
-We challenge our own and others' assumptions through qualitative and quantitative research. Not sure about an idea? Test it.
+Unlike some teams in BTE we value quality over quantity. We believe it's better to build a few great structures over many average ones, hence we strive for highh quality builds. That's part of the reason we made this handbook! To provide you with a guide to improve your building ability and improve consistency across BTE Mainland China.
