@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 👋 Welcome!
+# Welcome! 欢迎
 
 ## Welcome aboard!
 
