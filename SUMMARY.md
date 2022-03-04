@@ -13,7 +13,6 @@
 * [Introduction 介绍](building-guide-jian-zhu-zhi-nan/introduction.md)
 * [Navigating Maps 导航地图](building-guide-jian-zhu-zhi-nan/navigating-maps.md)
 * [How To Measure 如何测量](building-guide-jian-zhu-zhi-nan/how-to-measure-things/README.md)
-  * [Navigating Baidu, Google Earth and Apple Maps](building-guide-jian-zhu-zhi-nan/how-to-measure-things/navigating-baidu-google-earth-and-apple-maps.md)
   * [/TPLL](building-guide-jian-zhu-zhi-nan/how-to-measure-things/tpll.md)
   * [No 3D Guide](building-guide-jian-zhu-zhi-nan/how-to-measure-things/no-3d-guide.md)
 * [World Edit 编辑世界](building-guide-jian-zhu-zhi-nan/world-edit.md)
