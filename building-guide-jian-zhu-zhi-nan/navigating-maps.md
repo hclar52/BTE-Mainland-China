@@ -12,7 +12,7 @@ coverY: 0
 
 Google Maps is the only tool that should be used for measuring building position. The website provides builders with a high definition topographic map with the ability to right click to view and copy coordinates. See [how-to-measure-things](how-to-measure-things/ "mention") for more details on how to use TPLL to Measure Buildings.
 
-![Google Maps - Topographic View of Shanghai](../.gitbook/assets/image.png)
+![Google Maps - Topographic View of Shanghai](<../.gitbook/assets/image (2).png>)
 
 #### For Street View: Baidu Maps. ([https://bit.ly/3IIzqpm](https://bit.ly/3IIzqpm))
 

@@ -8,7 +8,9 @@ coverY: 0
 
 ## Our Vision
 
-Out mission is to recreate Mainland China 1:1 scale within Minecraft!&#x20;
+Our mission is to recreate Mainland China 1:1 scale within Minecraft!&#x20;
+
+![](<../.gitbook/assets/image (3).png>)
 
 ## Our Values
 
