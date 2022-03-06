@@ -41,5 +41,3 @@ Sometimes you might want some better topographic maps for the area you are build
 {% hint style="info" %}
 **Good to know:** If you have any questions Message Boojum or .exe on our Discord.&#x20;
 {% endhint %}
-
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
