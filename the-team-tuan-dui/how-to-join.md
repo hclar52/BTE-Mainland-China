@@ -9,7 +9,7 @@
 3. You need to have read and understand this guide.
 4. Join our discord server [https://discord.gg/2xU3nyUB3E](https://discord.gg/2xU3nyUB3E)
 
-#### Once You are Done Head to the Application form on the BTE Website and Apply (
+#### Once You are Done, Head to the Application Form on the BTE Website and Apply ([https://bit.ly/3MrDsV9](https://bit.ly/3MrDsV9))
 
 
 
