@@ -4,7 +4,7 @@
 \
 For the sake of simplicity, we are building China to the coordinates of Google Maps Satelite view.
 
-#### How To Get Real Life Coordinates.
+## How To Get Real Life Coordinates.
 
 1. Head To [https://www.google.com/maps](https://www.google.com/maps) and find the location you are interested in, making sure you are in Satellite view.
 
@@ -16,11 +16,11 @@ For the sake of simplicity, we are building China to the coordinates of Google M
 
 3\. In-game type /TPLL then paste what is in your clipboard and click enter.
 
-![BTE China Minecraft Server - TPLL.](<../../.gitbook/assets/image (4).png>)
+![BTE China Minecraft Server - TPLL.](<../../.gitbook/assets/image (4) (1).png>)
 
 4\. Place a block in the location to represent that point.
 
-![BTE China Minecraft Server - Marking Point.](../../.gitbook/assets/2022-03-31\_15.43.25.png)
+![BTE China Minecraft Server - Marking TPLL Point.](../../.gitbook/assets/2022-03-31\_15.43.25.png)
 
 #### When TPLL isn't enough.
 
