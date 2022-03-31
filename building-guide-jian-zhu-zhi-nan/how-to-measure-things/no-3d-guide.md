@@ -18,7 +18,7 @@ For Basic buildings where the roof and the sides are perpendicular we can apply 
 
 **•** TPLL **** out the roof section ignoring that it's off centre - see [tpll.md](tpll.md "mention") for clear instruction.
 
-![Google Maps View of Somewhere in Shanghai - No 3D - Right Click Coordinates.](<../../.gitbook/assets/image (4).png>)
+![Google Maps View of Somewhere in Shanghai - No 3D - Right Click Coordinates.](<../../.gitbook/assets/image (4) (1).png>)
 
 • TPLL 3 Points out into Minecraft and connect them with //line.
 

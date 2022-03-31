@@ -10,7 +10,7 @@ coverY: -595.0308370044053
 
 Our mission is to recreate Mainland China 1:1 scale within Minecraft!&#x20;
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 ## Our Values
 

@@ -10,4 +10,4 @@ layout: landing
 
 Welcome to the BTE Mainland China Handbook! Here you'll find everything you need to know about BTE Mainland China, what we do and how we do it!
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)

@@ -16,7 +16,7 @@ For the sake of simplicity, we are building China to the coordinates of Google M
 
 • Head To [https://www.google.com/maps](https://www.google.com/maps) and find the location you are interested in, making sure you are in Satellite view.
 
-![Google Maps View of Somewhere in Shanghai.](<../../.gitbook/assets/image (3) (1).png>)
+![Google Maps View of Somewhere in Shanghai.](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 #### 2. How To Get The Coordinates From Google Maps
 
@@ -24,14 +24,14 @@ For the sake of simplicity, we are building China to the coordinates of Google M
 • Left-click the numbers and they will be copied to your clipboard. \
 • It is critical you be extremely accurate, where possible zoom in as much as you can to ensure you get exact coordinates.
 
-![Google Maps View of Somewhere in Shanghai - Right Click Coordinates.](<../../.gitbook/assets/image (2).png>)
+![Google Maps View of Somewhere in Shanghai - Right Click Coordinates.](<../../.gitbook/assets/image (2) (1).png>)
 
 #### 3. Teleport To The Location Using TPLL
 
 • In-game type /TPLL then paste what is in your clipboard and click enter.\
 • This will teleport you to that exact location in-game
 
-![BTE China Minecraft Server - TPLL.](<../../.gitbook/assets/image (4) (1).png>)
+![BTE China Minecraft Server - TPLL.](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 #### 4. Mark The Point In-Game
 
@@ -43,6 +43,6 @@ For the sake of simplicity, we are building China to the coordinates of Google M
 
 • Because China doesn't have 3d on Minecraft you will often see this:
 
-![Google Maps View of Somewhere in Shanghai - No 3D.](<../../.gitbook/assets/image (1) (1).png>)
+![Google Maps View of Somewhere in Shanghai - No 3D.](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 <mark style="background-color:orange;">• Note: the difficulty in TPLLing the building, given measuring the base is unclear and the top of the building is off-centre. Head to</mark> [no-3d-guide.md](no-3d-guide.md "mention")<mark style="background-color:orange;">for a solution.</mark>
