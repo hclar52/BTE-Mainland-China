@@ -1,3 +1,8 @@
+---
+cover: https://api.cchatty.com/img/Chinese_Painting-article-1582423857
+coverY: -7.709251101321586
+---
+
 # Building and Terrain Height
 
 Because China Lacks 3D models for buildings and the information regarding height isn't accurate on google earth BTE Mainland China must find innovative ways to best calculate how tall buildings are and how far above sea level the ground is.
