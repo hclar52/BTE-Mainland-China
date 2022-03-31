@@ -28,4 +28,4 @@ We adopt mindful working practices so that we can create safe spaces both in our
 
 ### High-Quality Mindset
 
-Unlike some teams in BTE we value quality over quantity. We believe it's better to build a few great structures over many average ones, hence we strive for highh quality builds. That's part of the reason we made this handbook! To provide you with a guide to improve your building ability and improve consistency across BTE Mainland China.
+Unlike some teams in BTE we value quality over quantity. We believe it's better to build a few great structures over many average ones, hence we strive for high quality builds. That's part of the reason we made this handbook! To provide you with a guide to improve your building ability and improve consistency across BTE Mainland China.
