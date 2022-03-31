@@ -15,6 +15,7 @@
 * [How To Measure 如何测量](building-guide-jian-zhu-zhi-nan/how-to-measure-things/README.md)
   * [/TPLL](building-guide-jian-zhu-zhi-nan/how-to-measure-things/tpll.md)
   * [No 3D Guide](building-guide-jian-zhu-zhi-nan/how-to-measure-things/no-3d-guide.md)
+  * [Building and Terrain Height](building-guide-jian-zhu-zhi-nan/how-to-measure-things/building-and-terrain-height.md)
 * [World Edit 编辑世界](building-guide-jian-zhu-zhi-nan/world-edit.md)
 * [Texture & Detailing 纹理和细节](building-guide-jian-zhu-zhi-nan/texturing-and-detailing.md)
 * [Map Art 地图艺术](building-guide-jian-zhu-zhi-nan/map-art.md)

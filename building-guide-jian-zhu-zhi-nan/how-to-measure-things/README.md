@@ -1,13 +1,17 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+  https://upload.wikimedia.org/wikipedia/commons/f/f2/A_part_of_Giant_traditional_Chinese_Painting_8.jpg
+coverY: 207.86802030456852
 ---
 
 # How To Measure 如何测量
 
-Work in Progress.
+The ability to measure buildings, landscapes, roads etc is one of the most fundamental skills required for this project. At BTE Mainland China our mission is to represent Mainland China to scale and that means following the below guide is a must!
 
-{% hint style="info" %}
-**Good to know:**&#x20;
-{% endhint %}
+**See:**\
+****[tpll.md](tpll.md "mention")\
+[no-3d-guide.md](no-3d-guide.md "mention")\
+[building-and-terrain-height.md](building-and-terrain-height.md "mention")\
+
+
+****

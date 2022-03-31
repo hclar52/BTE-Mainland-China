@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://collectionapi.metmuseum.org/api/collection/v1/iiif/49156/198919/main-image
+coverY: -202.6431718061674
+---
+
 # How To Join 如何加入
 
 #### If You Want to Join Our Project This is What You Will Need:

@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+  https://collectionapi.metmuseum.org/api/collection/v1/iiif/49156/198919/main-image
+coverY: 218.5022026431718
 ---
 
 # Meet the Team! 认识团队

@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+  https://upload.wikimedia.org/wikipedia/commons/8/81/A_part_of_Giant_Traditional_Chinese_Painting.JPG
+coverY: -595.0308370044053
 ---
 
 # Vision & Values 愿景和价值观
@@ -10,7 +10,7 @@ coverY: 0
 
 Our mission is to recreate Mainland China 1:1 scale within Minecraft!&#x20;
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 ## Our Values
 
