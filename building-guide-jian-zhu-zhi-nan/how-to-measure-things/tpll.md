@@ -28,4 +28,4 @@ Because China doesn't have 3d on Minecraft you will often see this:
 
 ![Google Maps View of Somewhere in Shanghai - No 3D.](<../../.gitbook/assets/image (1).png>)
 
-Notice the difficulty in TPLLing the building given measuring the base is unclear and the top of the building being off-centre.
+Notice the difficulty in TPLLing the building, given measuring the base is unclear and the top of the building is off-centre. Head to [no-3d-guide.md](no-3d-guide.md "mention")for a solution.
