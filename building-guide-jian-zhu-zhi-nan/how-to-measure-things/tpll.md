@@ -26,3 +26,6 @@ For the sake of simplicity, we are building China to the coordinates of Google M
 
 Because China doesn't have 3d on Minecraft you will often see this:
 
+![Google Maps View of Somewhere in Shanghai - No 3D.](<../../.gitbook/assets/image (1).png>)
+
+Notice the difficulty in TPLLing the building given measuring the base is unclear and the top of the building being off-centre.
